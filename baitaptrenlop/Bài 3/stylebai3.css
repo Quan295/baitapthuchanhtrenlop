@@ -1,0 +1,19 @@
+.button-container{
+    display: flex;
+    justify-content: flex-start;
+    gap: 5px;
+}
+.first-button{
+    display: flex;
+    background-color: black;
+    color:white;
+}
+.second-button{
+    display: flex;
+    background-color: yellow;
+
+}
+.shared-styles {
+    font-size: 28px; 
+    font-family: Helvetica, "Times New Roman", sans-serif; 
+}
